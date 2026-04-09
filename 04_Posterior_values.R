@@ -3,8 +3,7 @@
 
 library(coda)
 
-
-setwd("D://Research//Papers_ComputModels//2026_foot_Daniel")
+# Need to run the model first in the 03_03_code_foot_Point_Process.R
 samples <- readRDS("nimble_mcmc_posterior_results.rds")
 
 

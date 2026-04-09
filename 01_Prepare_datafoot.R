@@ -7,7 +7,6 @@ library(purrr)
 # -------------------------------------------------
 # 1. Read Excel file
 
-setwd("D://Research//Papers_ComputModels//2026_foot_Daniel")
 matches_raw <- read_excel("League_1_pt.xlsx")
 
 # -------------------------------------------------

@@ -1,6 +1,6 @@
 library(nimble)
 
-setwd("D://Research//Papers_ComputModels//2026_foot_Daniel")
+
 data_foot <- readRDS("data_foot.rds")
 
 

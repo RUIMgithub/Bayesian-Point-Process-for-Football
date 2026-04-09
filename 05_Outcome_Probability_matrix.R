@@ -8,7 +8,6 @@
 library(coda)
 
 
-setwd("D://Research//Papers_ComputModels//2026_foot_Daniel")
 samples <- readRDS("nimble_mcmc_posterior_results.rds")
 
 

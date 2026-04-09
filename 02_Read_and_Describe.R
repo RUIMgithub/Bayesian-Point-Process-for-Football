@@ -1,5 +1,6 @@
 
-setwd("D://Research//Papers_ComputModels//2026_foot_Daniel")
+## need first to run the code in the file: 01_Prepare_datafoot
+## and save the results as "data_foot.rds" 
 data_foot <- readRDS("data_foot.rds")
 
 library(ggplot2)

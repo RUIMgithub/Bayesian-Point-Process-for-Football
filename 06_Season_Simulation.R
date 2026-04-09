@@ -1,7 +1,7 @@
 ############################################################
 # Posterior predictive simulation of the 2022/2023 season
 ############################################################
-setwd("D://Research//Papers_ComputModels//2026_foot_Daniel")
+
 data_foot <- readRDS("data_foot.rds")
 samples <- readRDS("nimble_mcmc_posterior_results.rds")
 
