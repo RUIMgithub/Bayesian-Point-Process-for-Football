@@ -1,8 +1,6 @@
 Files to get figures and tables in the paper: 
 "A Bayesian Non-Homogeneous Point-Process Model for Goal Scoring Dynamics in Football";
 
-Cabral & Martins, 2026
-
 List of files:
 01 - Prepara the dataset
 02 - Descriptive Statistics
